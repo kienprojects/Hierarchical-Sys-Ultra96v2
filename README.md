@@ -1,3 +1,13 @@
-# Hierarchical-Sys-Ultra96v2
+# A Novel Hierarchical Embedded System for Detection and Diagnosis of COPD and Other Respiratory Disorders
 
-FedX: Unsupervised Federated Learning with Cross Knowledge Distillation
+This repo is the PyTorch code of our paper: [links]
+
+#Highlight
+
+#Overall model architecture
+
+#Requirements
+
+#Usage - To run the code 
+
+#Citation
