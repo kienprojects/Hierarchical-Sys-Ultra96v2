@@ -2,12 +2,13 @@
 
 This repo is the PyTorch code of our paper: [links]
 
-#Highlight
+# **Highlight**
 
-#Overall model architecture
+**# Overall model architecture
+**
+#**Requirements**
 
-#Requirements
-
-#Usage - To run the code 
-
-#Citation
+**#Usage - To run the code 
+**
+**#Citation
+**
